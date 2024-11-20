@@ -62,8 +62,12 @@ This repository contains a fully functional **E-commerce Hardware Management Sys
    
 4. Login as an admin or create a user account to explore functionalities.
 
+---
+
 ## Conclusion
 The E-commerce Hardware Management System is a comprehensive platform tailored for hardware businesses. It offers an efficient way to manage sales, inventory, and team operations while providing customers with a smooth shopping experience.
+
+---
 
 ## Contribution
 Contributions are welcome! If you'd like to contribute, please:
